@@ -1,7 +1,7 @@
 # Cách Sử Dụng WireShark
 ## Mục lục
 
-[1.Khái Niệm] (#1)
+[1.Khái Niệm] (#KN)
 
 [2.Cách Sử Dụng] (#2)
 
@@ -19,7 +19,7 @@
 
 [3.Tham Khhảo] (#3)
 
-<a name"1"></a>
+<a name"KN"></a>
 ### 1.Khái Niệm
 Là 1 phần mềm thu thập, phân tích, giám sát các gói tin truyền trên mạng.
 
@@ -76,6 +76,7 @@ VD:
 #### e.Phân tích gói tin
 - Mỗi thông tin về Frame:Ethernet, IP, UDP hay data sẽ tương ứng với đoạn hexa riêng.
 - Bạn có thể vào từng thông tin để xem chi tiết về nó.
+
 VD:Ethernet
 
 <img src="http://i.imgur.com/4wNgu2I.png" />
@@ -89,6 +90,8 @@ VD:IP
 - Chuột phải vào gói tin và chọn "follow TCP stream"
 - Sau đó sẽ hiện ra 1 đoạn mã ASCII, bạn close nó đi.
 - Hiện ra sự trao đổi qua lại giữa 2 IP.
+
+<img src="http://i.imgur.com/CK99EsN.png" />
 
 <a name="3"></a>
 3.Tham Khảo:
