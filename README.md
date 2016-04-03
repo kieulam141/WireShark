@@ -1,7 +1,7 @@
 # Cách Sử Dụng WireShark
 ## Mục lục
 
-[1.Khái Niệm] (#KN)
+[1.Khái Niệm] (#1)
 
 [2.Cách Sử Dụng] (#2)
 
@@ -19,7 +19,7 @@
 
 [3.Tham Khhảo] (#3)
 
-<a name"KN"></a>
+<a name="1"></a>
 ### 1.Khái Niệm
 Là 1 phần mềm thu thập, phân tích, giám sát các gói tin truyền trên mạng.
 
